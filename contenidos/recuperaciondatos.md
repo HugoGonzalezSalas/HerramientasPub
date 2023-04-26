@@ -7,4 +7,5 @@ identifica los documentos, imagenes y videos borrados. Es capaz de recurperarlos
 ## Link de descarga
 - [Pincha aquí :)](https://www.ccleaner.com/knowledge/recuva-v1-53-2078?cc-noredirect=)
 
+
 ![image](recuva.png)
