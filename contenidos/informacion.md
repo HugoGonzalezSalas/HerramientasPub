@@ -7,3 +7,4 @@ Speccy es un software de utilidad gratuito el cual le muestra al usuario especif
 ## Link de descarga
 - [Pinche aquí :)](https://www.ccleaner.com/es-es/speccy)
 
+![image](speecy.jpeg)
