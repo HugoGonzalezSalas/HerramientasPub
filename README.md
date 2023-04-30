@@ -5,9 +5,6 @@
 - [3. Recuperación de Datos](/contenidos/recuperaciondatos.md)
 - [4. Recuperacion de Contraseña](/contenidos/recuperacioncontraseña.md)
 - [5. Libre](/contenidos/libre.md)
-
-## Referencias
-
 ## Autores
 - [Daniel Tenorio Ferrera](https://github.com/DanielTenorioF)
 - [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
