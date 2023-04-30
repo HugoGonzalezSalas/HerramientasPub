@@ -10,4 +10,4 @@ muchos conocimientos sobre el mundo informatico.
 ## Video
 - [Pulse aqui :)](https://www.youtube.com/watch?v=1Vt--7bNXSg)
 
-![image](contenidos/winscp.png)
+![image](/contenidos/winscp.png)
