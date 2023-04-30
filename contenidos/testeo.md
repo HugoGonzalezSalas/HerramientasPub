@@ -7,6 +7,6 @@ El programa permite controlar el funcionamiento del disco o discos instalados en
 - [Pinche aquí :)](https://crystalmark.info/en/software/crystaldiskinfo/)
 
 ## Video
-- [Pulse aqui :)]()
+- [Pulse aqui :)](https://youtu.be/dmd5RXw4f5U)
 
 ![image](crystal1.png)
